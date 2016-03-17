@@ -1772,46 +1772,46 @@ UI_20150804_001771	$Maximum Sockets : %s
 UI_20150807_001772	{@st41b}Details {img red_down_arrow 16 16}
 UI_20150807_001773	{memo X}
 UI_20150807_001774	{memo X}
-UI_20150918_001775	Camp Duration
-UI_20150918_001776	Effect
-UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.
-UI_20150918_001778	Personal Warehouse
+UI_20150918_001775	Duracion del campo
+UI_20150918_001776	Efecto
+UI_20150918_001777	La duraccion del campamento aumenta cuando es renovado{nl} Necesita %s plata.
+UI_20150918_001778	Banco personal
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Difficulty : {@sti7}%s{/}
-UI_20150918_001781	{#ffff00}{ol}%s{/}{/} players like this character
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Jugadores como este
 UI_20150918_001782	{@st43}Instanced Dungeons
-UI_20150918_001783	{@st41}Check Location
+UI_20150918_001783	{@st41}Comprobar lugar
 UI_20150918_001784	{#000000}Dungeon Name{/}
 UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
-UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Nearby Party Info
+UI_20150918_001788	{img silver 20 20} Precio
+UI_20150918_001789	Informacion de las partys cercanas
 UI_20150918_001790	Fragments needed : %s 
-UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
-UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
-UI_20150918_001794	Friendship
-UI_20150918_001795	{@st41b}Obtained material for crafting an item!
-UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
-UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
-UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
-UI_20150918_001799	{@st66b}Return to the field{/}
-UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
-UI_20150918_001801	{@st66b}Try Again{/}
-UI_20150918_001802	{@st66b}Items Sold{/}
-UI_20150918_001803	{@st53}Ranking Points : %s
+UI_20150918_001791	{@st66b}Vacio
+UI_20150918_001792	{@st42}Encontrar partys cercanas{/}
+UI_20150918_001793	Amistad con {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
+UI_20150918_001794	Amistad
+UI_20150918_001795	{@st41b}Has obtenido material para craftear items!
+UI_20150918_001796	{@st66b}{s20}Te has vuelto {/}{s20}{#cc6600}{ol}Intocable en combate {/}{@st66b}{s20}!{/}
+UI_20150918_001797	{@st66b}Reiniciar en el punto de salvado mas cercano{/}
+UI_20150918_001798	{@st66b}Reiniciar aqui (requires %s iCoins){/}
+UI_20150918_001799	{@st66b}Volver al mapa{/}
+UI_20150918_001800	{@st66b}Abandonar la mision e intentarlo de nuevo{/}
+UI_20150918_001801	{@st66b}Intenarlo de nuevo{/}
+UI_20150918_001802	{@st66b}Items vendidos{/}
+UI_20150918_001803	{@st53}Puntos de ranking : %s
 UI_20150918_001804	Total Untradable: %s
-UI_20150918_001805	{@st42b}Check Dialogue{/}
+UI_20150918_001805	{@st42b}Comprobar dialogo{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
 UI_20150918_001807	{@st41b}Change Signboard Title
-UI_20150918_001808	{@sti9}My Rank
-UI_20150918_001809	{@sti9}Kill Rank
-UI_20150918_001810	{@sti9}Damage Rank
-UI_20151001_001811	{@st43}Key Settings{/}
-UI_20151001_001812	{@st45tw2}Category
-UI_20151001_001813	Action
-UI_20151001_001814	Restore defaults
+UI_20150918_001808	{@sti9}Mi Ranking
+UI_20150918_001809	{@sti9}Ranking de asesinatos
+UI_20150918_001810	{@sti9}Ranking de daño
+UI_20151001_001811	{@st43}Configuracion de teclas{/}
+UI_20151001_001812	{@st45tw2}Categoria
+UI_20151001_001813	Accion
+UI_20151001_001814	Restaurar configuracion por defecto
 UI_20151016_001815
 UI_20151016_001816
 UI_20151016_001817
